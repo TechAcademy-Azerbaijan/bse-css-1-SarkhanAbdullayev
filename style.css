@@ -1,0 +1,63 @@
+
+.heading {
+    color: crimson;
+    font-family: 'Dancing Script', cursive;
+}
+
+.paragraph {
+    text-decoration: underline;
+    word-spacing: 2em;
+    line-height: 30px;
+    
+}
+
+#large-paragraph {
+    font-family: 'Raleway', sans-serif;
+    text-transform: lowercase;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+    text-decoration: line-through;
+}
+
+#last-paragraph{
+    font-style: italic;
+    text-align: center;
+    font-size: 22px;
+}
+
+#first-paragraph {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    letter-spacing: 10px;
+}
+
+#block1 {
+    background-image: url('https://raw.githubusercontent.com/TechAcademy-Azerbaijan/bse-css-1-SarkhanAbdullayev/master/images/image-1.jpg');
+    background-color: lightblue;
+    background-repeat: repeat-y;
+    background-position: center;
+}
+#block2 {
+    background-image: url('https://raw.githubusercontent.com/TechAcademy-Azerbaijan/bse-css-1-SarkhanAbdullayev/master/images/image-2.jpg');
+    background-color: darksalmon;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#block3 {
+    background-image: url('https://raw.githubusercontent.com/TechAcademy-Azerbaijan/bse-css-1-SarkhanAbdullayev/master/images/image-3.jpg');
+    background-color: darkseagreen;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+
